@@ -18,21 +18,21 @@ const Categorias = () => {
         <div className="categoriaBar">
           <img src={Comedia} alt="" className="categoriaBarImg" />
           <div className="categoriaBarText">
-            <h2>Comédia</h2>
+            <h3>Comédia</h3>
             <p>Risos, humor, piadas, diversão, leveza.</p>
           </div>
         </div>
         <div className="categoriaBar">
           <img src={Acao} alt="" className="categoriaBarImg" />
           <div className="categoriaBarText">
-            <h2>Ação</h2>
+            <h3>Ação</h3>
             <p>Emoção, adrenalina, heróis, explosões, aventura.</p>
           </div>
         </div>
         <div className="categoriaBar">
           <img src={ficcao} alt="" className="categoriaBarImg" />
           <div className="categoriaBarText">
-            <h2>Ficção Científica</h2>
+            <h3>Ficção Científica</h3>
             <p>
               Futuro, tecnologia, alienígenas, especulação, viagens espaciais.
             </p>
